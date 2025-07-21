@@ -2,6 +2,10 @@
 
 A comprehensive SQL-based project simulating a banking database system for managing **customers**, **accounts**, **transactions**, **loans**, **credit cards**, **branches**, and **ATMs**.
 
+## 📸 Sample Output
+
+![Bank SQL Output](https://github.com/prachi-janglekar/Bank-Dataset-analysis-in-SQL/blob/main/Screenshot%20(103).png?raw=true)
+
 ## 📚 About the Project
 
 This project demonstrates essential operations for a banking system using **MySQL**, including:
